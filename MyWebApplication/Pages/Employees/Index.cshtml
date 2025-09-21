@@ -1,0 +1,36 @@
+﻿@page
+@model ZelisTrainingRazorWebApp.Pages.Employees.IndexModel
+@{
+}
+@using ZelisTrainingDB;
+
+<a class="nav-link text-dark" asp-area="" asp-page="/Employees/Create"> Create Employee</a>
+<br />
+<h2>List of Employees</h2>
+<table border="1" class="table table-scripted table-dark">
+    <head>
+    <tr>
+        <th>EmpId</th>
+        <th>EmpName</th>
+        <th>Designation</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+    </head>
+    <tbody>
+        @foreach (var emp in Model.emp)
+        {
+            <tr>
+                <td>@emp.EmpId</td>
+                <td>@emp.EmpName</td>
+                <td>@emp.EmpDesignation</td>
+                <td>@emp.EmpEmail</td>
+                <td>@emp.EmpPhone</td>
+
+                <td><a href="/Employees/Details/@emp.EmpId">Details</a></td>
+                <td><a href="/Employees/Edit/@emp.EmpId">Edit</a></td>
+                <td><a href="/Employees/Delete/@emp.EmpId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

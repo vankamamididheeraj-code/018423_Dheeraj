@@ -1,0 +1,36 @@
+﻿@page
+@model Technologies.Pages.Technologys.IndexModel
+@{
+}
+@using ZelisTrainingDB;
+
+<a class="nav-link text-dark" asp-area="" asp-page="/Technologys/Create"> Create Technology</a>
+<br />
+<h2>List of Technologys</h2>
+<table border="1" class="table table-scripted table-dark">
+    <head>
+    <tr>
+        <th>TechnologyId</th>
+        <th>TechName</th>
+        <th>TechLevel</th>
+        <th>Duration</th>
+    </tr>
+    </head>
+    <tbody>
+        @foreach (var emp in Model.tech)
+        {
+            <tr>
+                <td>@emp.TechnologyId</td>
+                <td>@emp.TechName</td>
+                <td>@emp.TechLevel</td>
+                <td>@emp.Duration</td>
+
+
+                <td><a href="/Technologys/Details/@emp.TechnologyId">Details</a></td>
+                <td><a href="/Technologys/Edit/@emp.TechnologyId">Edit</a></td>
+                <td><a href="/Technologys/Delete/@emp.TechnologyId">Delete</a></td>
+                <td><a href="/Technologys/Level/@emp.TechLevel">ByLevel</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

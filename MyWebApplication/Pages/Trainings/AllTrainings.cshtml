@@ -1,0 +1,40 @@
+﻿@page
+@model MyWebApplication.Pages.Trainings.AllTrainingsModel
+@{
+}
+<h2>Search Trainings by Trainer ID</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="trainerId">Trainer ID</label>
+        <input type="number" asp-for="TrainerIdInput" class="form-control" placeholder="Enter Trainer ID" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>
+
+@if (Model.Trainings != null && Model.Trainings.Count > 0)
+{
+    <h3 class="mt-4">Trainings conducted by Trainer ID: <strong>@Model.TrainerIdInput</strong></h3>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Training ID</th>
+                <th>Technology ID</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var training in Model.Trainings)
+            {
+                <tr>
+                    <td>@training.TrainingId</td>
+                    <td>@training.TechnologyId</td>
+                    <td>@training.StartDate.ToString("yyyy-MM-dd")</td>
+                    <td>@training.EndDate.ToString("yyyy-MM-dd")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

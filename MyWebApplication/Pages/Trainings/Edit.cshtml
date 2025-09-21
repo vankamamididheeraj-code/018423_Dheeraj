@@ -1,0 +1,24 @@
+﻿@page "{tiid}"
+@model TrainingWebApp.Pages.Trainings.EditModel
+@{
+}
+@using ZelisTrainingDB;
+<h2> Edit Training Details</h2>
+<form method="post">
+    <label asp-for="Training.TrainingId">Trainer Name : </label>
+    <input asp-for=Training.TrainingId" class="form-control" />
+    <hr />
+    <label asp-for="Training.TrainerId">Trainer ID : </label>
+    <input asp-for=Training.TrainerId" class="form-control" />
+    <hr />
+    <label asp-for="Training.TechnologyId">Technology Id : </label>
+    <input asp-for=Training.TechnologyId" class="form-control" />
+    <hr />
+    <label asp-for="Training.StartDate">Trainer Email : </label>
+    <input asp-for=Training.StartDate" class="form-control" />
+    <hr />
+    <label asp-for="Training.EndDate">Trainer Phone : </label>
+    <input asp-for=Training.EndDate" class="form-control" />
+    <hr />
+    <input type="submit" value="save" />
+</form>

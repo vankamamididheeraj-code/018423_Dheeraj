@@ -1,0 +1,41 @@
+﻿@page
+@model MyWebApplication.Pages.Trainers.TypeModel
+@{
+}
+<h2>Enter Level to Search</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="levelInput">Tariner Type (e.g. I, E)</label>
+        <input type="text" asp-for="Type" class="form-control" placeholder="Enter Level" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>
+
+@if (Model.Trainer != null && Model.Trainer.Count > 0)
+{
+    <h3 class="mt-4">Trainer Details for Type: <strong>@Model.Type</strong></h3>
+    <table border="1" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>TrainerId</th>
+                <th>TrainerName</th>
+                <th>Type</th>
+                <th>Email</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tech in Model.Trainer)
+            {
+                <tr>
+                    <td>@tech.TrainerId</td>
+                    <td>@tech.TrainerName</td>
+                    <td>@tech.TrainerType</td>
+                    <td>@tech.Email</td>
+                    <td>@tech.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

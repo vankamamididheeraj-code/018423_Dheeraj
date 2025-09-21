@@ -1,0 +1,22 @@
+﻿@page "{tid}"
+@model Technologies.Pages.Technologys.DetailsModel
+@{
+}
+using ZelisTrainingDB;
+<h2>Delete Technology</h2>
+<label asp-for="Technology.TechnologyId">Emp ID:</label>
+@Model.Technology.TechnologyId
+<br />
+<label asp-for="Technology.TechName">Name</label>
+@Model.Technology.TechName
+<br />
+<label asp-for="Technology.TechLevel">Salary</label>
+@Model.Technology.TechLevel
+<br />
+<label asp-for="Technology.Duration">Salary</label>
+@Model.Technology.Duration
+<br />
+<form method="post">
+    <input type="submit" value="Delete" />
+</form>
+<a href="/Technologys/Index">Back to page</a>

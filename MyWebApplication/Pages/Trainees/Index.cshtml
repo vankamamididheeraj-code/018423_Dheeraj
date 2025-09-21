@@ -1,0 +1,38 @@
+﻿@page
+@model ZelisTrainingRazorWebApp.Pages.Trainees.IndexModel
+@{
+}
+
+
+<a class="btn btn-primary px-4 py-2 text-white" asp-area="" asp-page="/Trainees/Create" style="text-decoration: none;">Create Trainee</a>
+
+
+<h2>Trainee Deatils</h2>
+<table border="1" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>TrainingId</th>
+            <th>EmpId</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Trainee in Model.trainee)
+        {
+            <tr>
+                <td>@Trainee.TrainingId</td>
+                <td>@Trainee.EmpId</td>
+                <td>@Trainee.Status</td>
+                <td>
+                    <a href="/Trainees/Details/@Trainee.TrainingId">Details</a>    |
+                    <a href="/Trainees/Edit/@Trainee.TrainingId">Edit</a>    |
+                    <a href="/Trainees/Delete/@Trainee.TrainingId">Delete</a>    |
+                    <a href="/Trainees/TrainerDeatils/@Trainee.EmpId">Trainer Details</a>    |
+                    <a href="/Trainees/TrainingDetails/@Trainee.TrainingId">Training Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<td><a href="/Trainees/Status" class="btn btn-outline-primary mb-2 w-100">Trainees By Status</a>

@@ -1,0 +1,22 @@
+﻿@page "{eid}"
+@model MyWebApplication.Pages.Trainees.TrainerDetailsModel
+@{
+}
+@using ZelisTrainingLibrary;
+<h2>Trainer Details</h2>
+<label asp-for="Employee.EmpId">Employee ID : </label>
+@Model.Employee.EmpId
+<br />
+<label asp-for="Employee.EmpName">Employee Name : </label>
+@Model.Employee.EmpName
+<br />
+<label asp-for="Employee.EmpDesignation">Employee Designation : </label>
+@Model.Employee.EmpDesignation
+<br />
+<label asp-for="Employee.EmpEmail">Employee Email : </label>
+@Model.Employee.EmpEmail
+<br />
+<label asp-for="Employee.EmpPhone">Employee Phone : </label>
+@Model.Employee.EmpPhone
+<br />
+<a href="/Trainees/Index">Back To List</a>

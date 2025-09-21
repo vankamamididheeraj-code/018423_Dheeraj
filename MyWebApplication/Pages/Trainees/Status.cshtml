@@ -1,0 +1,38 @@
+﻿@page
+@model ZelisTrainingRazorWebApp.Pages.Trainees.StatusModel
+
+<h2>Search Trainees by Status</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="statusInput">Trainee Status (e.g. C, N)</label>
+        <input type="text" asp-for="Status" class="form-control" placeholder="Enter Status" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>
+
+@if (Model.Trainee != null && Model.Trainee.Count > 0)
+{
+    <h3 class="mt-4">Trainees with Status: <strong>@Model.Status</strong></h3>
+    <table border="1" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>TrainingId</th>
+                <th>EmpId</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Trainee in Model.Trainee)
+            {
+                <tr>
+                    <td>@Trainee.TrainingId</td>
+                    <td>@Trainee.EmpId</td>
+                    <td>@Trainee.Status</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+

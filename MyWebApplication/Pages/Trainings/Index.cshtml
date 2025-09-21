@@ -1,0 +1,34 @@
+﻿@page
+@model TrainingWebApp.Pages.Trainings.IndexModel
+@{
+}
+<a class="nav-link text-dark" asp-area="" asp-page="/Trainings/Create"> Create Training</a>
+<br />
+<h2>List of Trainings</h2>
+<table border="1" class="table table-scripted table-dark">
+    <head>
+    <tr>
+        <th>TrainingId</th>
+        <th>TrainerId</th>
+        <th>TechnologyId</th>
+        <th>StartDate</th>
+        <th>EndDate</th>
+    </tr>
+    </head>
+    <tbody>
+        @foreach (var emp in Model.training)
+        {
+            <tr>
+                <td>@emp.TrainingId</td>    
+                <td>@emp.TrainerId</td>
+                <td>@emp.TechnologyId</td>
+                <td>@emp.StartDate</td>
+                <td>@emp.EndDate</td>
+
+                <td><a href="/Trainings/Details/@emp.TrainingId">Details</a></td>
+                <td><a href="/Trainings/Edit/@emp.TrainingId">Edit</a></td>
+                <td><a href="/Trainings/Delete/@emp.TrainingId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

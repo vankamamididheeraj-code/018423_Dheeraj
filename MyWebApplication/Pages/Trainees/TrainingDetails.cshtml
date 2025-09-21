@@ -1,0 +1,21 @@
+﻿@page "{tiid}"
+@model MyWebApplication.Pages.Trainees.TrainingDetailsModel
+@{
+}
+<h2>Training Details</h2>
+<label asp-for="Training.TrainingId">Training ID : </label>
+@Model.Training.TrainingId
+<br />
+<label asp-for="Training.TrainerId">TrainerId : </label>
+@Model.Training.TrainerId
+<br />
+<label asp-for="Training.TechnologyId">Technology Id : </label>
+@Model.Training.TechnologyId
+<br />
+<label asp-for="Training.StartDate">StartDate : </label>
+@Model.Training.StartDate
+<br />
+<label asp-for="Training.EndDate">EndDate : </label>
+@Model.Training.EndDate
+<br />
+<a href="/Trainees/Index">Back To List</a>

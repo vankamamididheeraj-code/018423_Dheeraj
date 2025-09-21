@@ -1,0 +1,26 @@
+﻿@page "{trid}"
+@model TrainerWebApp.Pages.Trainers.DeleteModel
+@{
+}
+@using ZelisTrainingDB;
+<h2>Delete Trainer</h2>
+<label asp-for="Trainer.TrainerId">Trainer ID:</label>
+@Model.Trainer.TrainerId
+<br />
+<label asp-for="Trainer.TrainerName">Trainer Name</label>
+@Model.Trainer.TrainerName
+<br />
+<label asp-for="Trainer.TrainerType">Trainer Level</label>
+@Model.Trainer.TrainerType
+<br />
+<label asp-for="Trainer.Email">Trainer Email</label>
+@Model.Trainer.Email
+<br />
+<label asp-for="Trainer.Phone">Trainer Phone</label>
+@Model.Trainer.Phone
+<br />
+<form method="post">
+    <input type="submit" value="Delete" />
+</form>
+<a href="/Trainers/Index">Back to page</a>
+

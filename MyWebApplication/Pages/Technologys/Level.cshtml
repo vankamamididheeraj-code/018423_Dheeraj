@@ -1,0 +1,39 @@
+﻿@page
+@model MyWebApplication.Pages.Technologys.LevelModel
+@{
+}
+<h2>Enter Level to Search</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="levelInput">Level (e.g.,B, I, A)</label>
+        <input type="text" asp-for="LevelInput" class="form-control" placeholder="Enter Level" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>
+
+@if (Model.Technology != null && Model.Technology.Count > 0)
+{
+    <h3 class="mt-4">Technology Details for Level: <strong>@Model.LevelInput</strong></h3>
+    <table border="1" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Technology ID</th>
+                <th>Name</th>
+                <th>Level</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tech in Model.Technology)
+            {
+                <tr>
+                    <td>@tech.TechnologyId</td>
+                    <td>@tech.TechName</td>
+                    <td>@tech.TechLevel</td>
+                    <td>@tech.Duration</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

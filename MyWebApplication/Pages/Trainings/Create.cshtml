@@ -1,0 +1,24 @@
+﻿@page
+@model TrainingWebApp.Pages.Trainings.CreateModel
+@{
+}
+<h2> Create Training</h2>
+<form method="post">
+    <label asp-for="Training.TrainingId">Training ID : </label>
+    <input asp-for=Training.TrainingId" class="form-control" />
+    <hr />
+    <label asp-for="Training.TrainerId">Trainer ID : </label>
+    <input asp-for=Training.TrainerId" class="form-control" />
+    <hr />
+    <label asp-for="Training.TechnologyId">Technology ID: </label>
+    <select asp-for="Training.TechnologyId" class="form-control"/>
+    <br/>
+    <hr />
+    <label asp-for="Training.StartDate">Training StartDate : </label>
+    <input asp-for=Training.StartDate" class="form-control" />
+    <hr />
+    <label asp-for="Training.EndDate">Training EndDate : </label>
+    <input asp-for=Training.EndDate" class="form-control" />
+    <hr />
+    <input type="submit" value="save" />
+</form>

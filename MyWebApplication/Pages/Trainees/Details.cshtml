@@ -1,0 +1,18 @@
+﻿@page "{tid}"
+@model ZelisTrainingRazorWebApp.Pages.Trainees.DetailsModel
+@{
+}
+
+@using ZelisTrainingLibrary;
+<h2>Trainee Details</h2>
+<label asp-for="Trainee.TrainingId">Training ID : </label>
+@Model.Trainee.TrainingId
+<br />
+<label asp-for="Trainee.EmpId">Emp Id : </label>
+@Model.Trainee.EmpId
+<br />
+<label asp-for="Trainee.Status">Status : </label>
+@Model.Trainee.Status
+<br />
+<br />
+<a href="/Trainees/Index" class="btn btn-secondary">Back To List</a>

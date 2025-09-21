@@ -1,0 +1,23 @@
+﻿@page
+@model ZelisTrainingRazorWebApp.Pages.Employees.CreateModel
+@{
+}
+<h2> Create Employee</h2>
+<form method="post">
+    <label asp-for="Employee.EmpId">Employee ID : </label>
+    <input asp-for=Employee.EmpId" class="form-control" />
+    <hr />
+    <label asp-for="Employee.EmpName">Employee Name : </label>
+    <input asp-for=Employee.EmpName" class="form-control" />
+    <hr />
+    <label asp-for="Employee.EmpDesignation">Employee Salary : </label>
+    <input asp-for=Employee.EmpDesignation" class="form-control" />
+    <hr />
+    <label asp-for="Employee.EmpEmail">Employee Email : </label>
+    <input asp-for=Employee.EmpEmail" class="form-control" />
+    <hr />
+    <label asp-for="Employee.EmpPhone">Employee PhoneNumber : </label>
+    <input asp-for=Employee.EmpPhone" class="form-control" />
+    <hr />
+    <input type="submit" value="save" />
+</form>
