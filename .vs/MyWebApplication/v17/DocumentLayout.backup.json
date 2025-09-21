@@ -1,0 +1,819 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\trainingdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\trainingdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainers\\type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainers\\type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainers\\type.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainers\\type.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\level.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\level.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\level.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\level.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\technologys\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\technologys\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\status.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\status.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\trainees\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\trainees\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\vv018423\\source\\day05\\mywebapplication\\mywebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11D4D6B-0BCA-4A05-9928-50AF86D22AD9}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainingDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\TrainingDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\TrainingDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\TrainingDetails.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\TrainingDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:38:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Index.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainers\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:30:52.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Type.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Type.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainers\\Type.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Type.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainers\\Type.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:29:39.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Type.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainers\\Type.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Type.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainers\\Type.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:29:22.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Level.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Level.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Level.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Level.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:27:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Level.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Level.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Level.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Level.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:26:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainers\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:25:35.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:23:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Index.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:09:37.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Index.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:09:40.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainers\\Delete.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:24:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Details.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Details.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:25:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Index.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:13:26.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Delete.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:06:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Edit.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:06:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Index.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:06:41.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Create.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:13:45.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Create.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:13:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:10:10.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Edit.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:10:13.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ADOEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOEmployee.cs",
+              "RelativeDocumentMoniker": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOEmployee.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOEmployee.cs",
+              "RelativeToolTip": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOEmployee.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:10:52.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Delete.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:10:21.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Delete.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:10:25.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Create.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:10:06.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Create.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:10:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:09:26.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Details.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:04:25.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Technologys\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Technologys\\Details.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Technologys\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:04:22.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:09:23.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:09:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:09:14.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:09:04.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Details.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:08:56.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:08:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:08:38.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:08:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainings\\Details.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:25:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Details.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:33:50.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Index.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:01:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ADOTraining.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTraining.cs",
+              "RelativeDocumentMoniker": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTraining.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTraining.cs",
+              "RelativeToolTip": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTraining.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:09:36.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Index.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T12:01:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Details.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:33:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Status.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Status.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\Status.cshtml.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Status.cshtml.cs",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\Status.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:33:32.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Status.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Status.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Trainees\\Status.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Trainees\\Status.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Trainees\\Status.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:33:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ADOTrainee.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainee.cs",
+              "RelativeDocumentMoniker": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainee.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainee.cs",
+              "RelativeToolTip": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainee.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:11:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ADOTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainer.cs",
+              "RelativeDocumentMoniker": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainer.cs",
+              "ToolTip": "C:\\Users\\VV018423\\source\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainer.cs",
+              "RelativeToolTip": "..\\..\\018423_Dheeraj\\ZelisTrainingDB\\ZelisTrainingDB\\Repos\\ADOTrainer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:08:25.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Day05\\MyWebApplication\\MyWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T07:55:35.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
